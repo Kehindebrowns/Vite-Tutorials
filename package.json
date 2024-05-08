@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev" : "VITE_SOME_KEY vite dev"
+  },
+  "devDependencies": {
+    "vite": "^5.2.10"
+  }
+}
